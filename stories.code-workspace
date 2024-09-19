@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "stories",
+			"path": "../../../Downloads/stories/stories"
+		},
+		{
+			"name": "nuxt3-video-audio-call",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
